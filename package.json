@@ -1,0 +1,22 @@
+{
+  "name": "@adent/translator",
+  "version": "1.0.0",
+  "description": "Node.js Translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gazetisto-com/translator.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Martin Maly <maly@maly.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gazetisto-com/translator/issues"
+  },
+  "homepage": "https://github.com/gazetisto-com/translator#readme"
+}
